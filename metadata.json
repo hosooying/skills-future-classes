@@ -1,0 +1,6 @@
+{
+  "name": "MySkillsFuture Courses",
+  "description": "A streamlined, Booking.com-inspired course discovery and reservation experience for MySkillsFuture Singapore across Work Skills and Hobby Skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
